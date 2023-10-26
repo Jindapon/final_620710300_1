@@ -1,0 +1,18 @@
+{
+  "city": "Beijing",
+  "country": "China",
+  "lastUpdated": "2023-10-26 10:00",
+  "tempC": 19,
+  "tempF": 66.2,
+  "feelsLikeC": 19,
+  "feelsLikeF": 66.2,
+  "windKph": 6.8,
+  "windMph": 4.3,
+  "humidity": 32,
+  "uv": 5,
+  "condition": {
+    "text": "Sunny",
+    "icon": "https://cdn.weatherapi.com/weather/128x128/day/113.png",
+    "code": 1000
+  }
+}
